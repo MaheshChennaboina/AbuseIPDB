@@ -89,7 +89,7 @@ def process_excel(input_file, api_key):
     print(f"Output file '{output_file_name}' created successfully.")
 
 # Replace 'YOUR_API_KEY' with your actual AbuseIPDB API key
-api_key = 'd245bd1979cbe344954820165650546329f8b2598a357927136ed319f9565fd5c5cb0bdcc9796ba6'
+api_key = 'API_KEY'
 
 # Replace 'input.xlsx' with the name of your input Excel file
 input_file_name = 'input.xlsx'
